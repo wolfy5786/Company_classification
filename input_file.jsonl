@@ -1,0 +1,312 @@
+{
+    "custom_id": "request-A",
+    "method": "POST",
+    "url": "/v1/chat/completions",
+    "body": {"model": "gpt-4o-mini",
+    "messages": [{"role": "developer", "content": "Your responce must be a valid JSON format."},
+        {"role": "user", "content": "All the companies listed on National Stock Exchange (NSE) India, starting with the charecter A in Json format with the following attributes, 'name, description, type'. 
+Name - name of company, 
+description - must include short description of company information, their main source of revenue, current holdings, what does company do? in less than 50 words.
+type - give a label to company according to its type, like bank, technology, pharma, telecom, etc."}],
+    "max_tokens": 1000000}
+}
+{
+    "custom_id": "request-B",
+    "method": "POST",
+    "url": "/v1/chat/completions",
+    "body": {"model": "gpt-4o-mini",
+    "messages": [{"role": "developer", "content": "Your responce must be a valid JSON format."},
+        {"role": "user", "content": "All the companies listed on National Stock Exchange (NSE) India, starting with the charecter B in Json format with the following attributes, 'name, description, type'. 
+Name - name of company, 
+description - must include short description of company information, their main source of revenue, current holdings, what does company do? in less than 50 words.
+type - give a label to company according to its type, like bank, technology, pharma, telecom, etc."}],
+    "max_tokens": 1000000}
+}
+{
+    "custom_id": "request-C",
+    "method": "POST",
+    "url": "/v1/chat/completions",
+    "body": {"model": "gpt-4o-mini",
+    "messages": [{"role": "developer", "content": "Your responce must be a valid JSON format."},
+        {"role": "user", "content": "All the companies listed on National Stock Exchange (NSE) India, starting with the charecter C in Json format with the following attributes, 'name, description, type'. 
+Name - name of company, 
+description - must include short description of company information, their main source of revenue, current holdings, what does company do? in less than 50 words.
+type - give a label to company according to its type, like bank, technology, pharma, telecom, etc."}],
+    "max_tokens": 1000000}
+}
+{
+    "custom_id": "request-D",
+    "method": "POST",
+    "url": "/v1/chat/completions",
+    "body": {"model": "gpt-4o-mini",
+    "messages": [{"role": "developer", "content": "Your responce must be a valid JSON format."},
+        {"role": "user", "content": "All the companies listed on National Stock Exchange (NSE) India, starting with the charecter D in Json format with the following attributes, 'name, description, type'. 
+Name - name of company, 
+description - must include short description of company information, their main source of revenue, current holdings, what does company do? in less than 50 words.
+type - give a label to company according to its type, like bank, technology, pharma, telecom, etc."}],
+    "max_tokens": 1000000}
+}
+{
+    "custom_id": "request-E",
+    "method": "POST",
+    "url": "/v1/chat/completions",
+    "body": {"model": "gpt-4o-mini",
+    "messages": [{"role": "developer", "content": "Your responce must be a valid JSON format."},
+        {"role": "user", "content": "All the companies listed on National Stock Exchange (NSE) India, starting with the charecter E in Json format with the following attributes, 'name, description, type'. 
+Name - name of company, 
+description - must include short description of company information, their main source of revenue, current holdings, what does company do? in less than 50 words.
+type - give a label to company according to its type, like bank, technology, pharma, telecom, etc."}],
+    "max_tokens": 1000000}
+}
+{
+    "custom_id": "request-F",
+    "method": "POST",
+    "url": "/v1/chat/completions",
+    "body": {"model": "gpt-4o-mini",
+    "messages": [{"role": "developer", "content": "Your responce must be a valid JSON format."},
+        {"role": "user", "content": "All the companies listed on National Stock Exchange (NSE) India, starting with the charecter F in Json format with the following attributes, 'name, description, type'. 
+Name - name of company, 
+description - must include short description of company information, their main source of revenue, current holdings, what does company do? in less than 50 words.
+type - give a label to company according to its type, like bank, technology, pharma, telecom, etc."}],
+    "max_tokens": 1000000}
+}
+{
+    "custom_id": "request-G",
+    "method": "POST",
+    "url": "/v1/chat/completions",
+    "body": {"model": "gpt-4o-mini",
+    "messages": [{"role": "developer", "content": "Your responce must be a valid JSON format."},
+        {"role": "user", "content": "All the companies listed on National Stock Exchange (NSE) India, starting with the charecter G in Json format with the following attributes, 'name, description, type'. 
+Name - name of company, 
+description - must include short description of company information, their main source of revenue, current holdings, what does company do? in less than 50 words.
+type - give a label to company according to its type, like bank, technology, pharma, telecom, etc."}],
+    "max_tokens": 1000000}
+}
+{
+    "custom_id": "request-H",
+    "method": "POST",
+    "url": "/v1/chat/completions",
+    "body": {"model": "gpt-4o-mini",
+    "messages": [{"role": "developer", "content": "Your responce must be a valid JSON format."},
+        {"role": "user", "content": "All the companies listed on National Stock Exchange (NSE) India, starting with the charecter H in Json format with the following attributes, 'name, description, type'. 
+Name - name of company, 
+description - must include short description of company information, their main source of revenue, current holdings, what does company do? in less than 50 words.
+type - give a label to company according to its type, like bank, technology, pharma, telecom, etc."}],
+    "max_tokens": 1000000}
+}
+{
+    "custom_id": "request-I",
+    "method": "POST",
+    "url": "/v1/chat/completions",
+    "body": {"model": "gpt-4o-mini",
+    "messages": [{"role": "developer", "content": "Your responce must be a valid JSON format."},
+        {"role": "user", "content": "All the companies listed on National Stock Exchange (NSE) India, starting with the charecter I in Json format with the following attributes, 'name, description, type'. 
+Name - name of company, 
+description - must include short description of company information, their main source of revenue, current holdings, what does company do? in less than 50 words.
+type - give a label to company according to its type, like bank, technology, pharma, telecom, etc."}],
+    "max_tokens": 1000000}
+}
+{
+    "custom_id": "request-J",
+    "method": "POST",
+    "url": "/v1/chat/completions",
+    "body": {"model": "gpt-4o-mini",
+    "messages": [{"role": "developer", "content": "Your responce must be a valid JSON format."},
+        {"role": "user", "content": "All the companies listed on National Stock Exchange (NSE) India, starting with the charecter J in Json format with the following attributes, 'name, description, type'. 
+Name - name of company, 
+description - must include short description of company information, their main source of revenue, current holdings, what does company do? in less than 50 words.
+type - give a label to company according to its type, like bank, technology, pharma, telecom, etc."}],
+    "max_tokens": 1000000}
+}
+{
+    "custom_id": "request-K",
+    "method": "POST",
+    "url": "/v1/chat/completions",
+    "body": {"model": "gpt-4o-mini",
+    "messages": [{"role": "developer", "content": "Your responce must be a valid JSON format."},
+        {"role": "user", "content": "All the companies listed on National Stock Exchange (NSE) India, starting with the charecter K in Json format with the following attributes, 'name, description, type'. 
+Name - name of company, 
+description - must include short description of company information, their main source of revenue, current holdings, what does company do? in less than 50 words.
+type - give a label to company according to its type, like bank, technology, pharma, telecom, etc."}],
+    "max_tokens": 1000000}
+}
+{
+    "custom_id": "request-L",
+    "method": "POST",
+    "url": "/v1/chat/completions",
+    "body": {"model": "gpt-4o-mini",
+    "messages": [{"role": "developer", "content": "Your responce must be a valid JSON format."},
+        {"role": "user", "content": "All the companies listed on National Stock Exchange (NSE) India, starting with the charecter L in Json format with the following attributes, 'name, description, type'. 
+Name - name of company, 
+description - must include short description of company information, their main source of revenue, current holdings, what does company do? in less than 50 words.
+type - give a label to company according to its type, like bank, technology, pharma, telecom, etc."}],
+    "max_tokens": 1000000}
+}
+{
+    "custom_id": "request-M",
+    "method": "POST",
+    "url": "/v1/chat/completions",
+    "body": {"model": "gpt-4o-mini",
+    "messages": [{"role": "developer", "content": "Your responce must be a valid JSON format."},
+        {"role": "user", "content": "All the companies listed on National Stock Exchange (NSE) India, starting with the charecter M in Json format with the following attributes, 'name, description, type'. 
+Name - name of company, 
+description - must include short description of company information, their main source of revenue, current holdings, what does company do? in less than 50 words.
+type - give a label to company according to its type, like bank, technology, pharma, telecom, etc."}],
+    "max_tokens": 1000000}
+}
+{
+    "custom_id": "request-N",
+    "method": "POST",
+    "url": "/v1/chat/completions",
+    "body": {"model": "gpt-4o-mini",
+    "messages": [{"role": "developer", "content": "Your responce must be a valid JSON format."},
+        {"role": "user", "content": "All the companies listed on National Stock Exchange (NSE) India, starting with the charecter N in Json format with the following attributes, 'name, description, type'. 
+Name - name of company, 
+description - must include short description of company information, their main source of revenue, current holdings, what does company do? in less than 50 words.
+type - give a label to company according to its type, like bank, technology, pharma, telecom, etc."}],
+    "max_tokens": 1000000}
+}
+{
+    "custom_id": "request-O",
+    "method": "POST",
+    "url": "/v1/chat/completions",
+    "body": {"model": "gpt-4o-mini",
+    "messages": [{"role": "developer", "content": "Your responce must be a valid JSON format."},
+        {"role": "user", "content": "All the companies listed on National Stock Exchange (NSE) India, starting with the charecter O in Json format with the following attributes, 'name, description, type'. 
+Name - name of company, 
+description - must include short description of company information, their main source of revenue, current holdings, what does company do? in less than 50 words.
+type - give a label to company according to its type, like bank, technology, pharma, telecom, etc."}],
+    "max_tokens": 1000000}
+}
+{
+    "custom_id": "request-P",
+    "method": "POST",
+    "url": "/v1/chat/completions",
+    "body": {"model": "gpt-4o-mini",
+    "messages": [{"role": "developer", "content": "Your responce must be a valid JSON format."},
+        {"role": "user", "content": "All the companies listed on National Stock Exchange (NSE) India, starting with the charecter P in Json format with the following attributes, 'name, description, type'. 
+Name - name of company, 
+description - must include short description of company information, their main source of revenue, current holdings, what does company do? in less than 50 words.
+type - give a label to company according to its type, like bank, technology, pharma, telecom, etc."}],
+    "max_tokens": 1000000}
+}
+{
+    "custom_id": "request-Q",
+    "method": "POST",
+    "url": "/v1/chat/completions",
+    "body": {"model": "gpt-4o-mini",
+    "messages": [{"role": "developer", "content": "Your responce must be a valid JSON format."},
+        {"role": "user", "content": "All the companies listed on National Stock Exchange (NSE) India, starting with the charecter Q in Json format with the following attributes, 'name, description, type'. 
+Name - name of company, 
+description - must include short description of company information, their main source of revenue, current holdings, what does company do? in less than 50 words.
+type - give a label to company according to its type, like bank, technology, pharma, telecom, etc."}],
+    "max_tokens": 1000000}
+}
+{
+    "custom_id": "request-R",
+    "method": "POST",
+    "url": "/v1/chat/completions",
+    "body": {"model": "gpt-4o-mini",
+    "messages": [{"role": "developer", "content": "Your responce must be a valid JSON format."},
+        {"role": "user", "content": "All the companies listed on National Stock Exchange (NSE) India, starting with the charecter R in Json format with the following attributes, 'name, description, type'. 
+Name - name of company, 
+description - must include short description of company information, their main source of revenue, current holdings, what does company do? in less than 50 words.
+type - give a label to company according to its type, like bank, technology, pharma, telecom, etc."}],
+    "max_tokens": 1000000}
+}
+{
+    "custom_id": "request-S",
+    "method": "POST",
+    "url": "/v1/chat/completions",
+    "body": {"model": "gpt-4o-mini",
+    "messages": [{"role": "developer", "content": "Your responce must be a valid JSON format."},
+        {"role": "user", "content": "All the companies listed on National Stock Exchange (NSE) India, starting with the charecter S in Json format with the following attributes, 'name, description, type'. 
+Name - name of company, 
+description - must include short description of company information, their main source of revenue, current holdings, what does company do? in less than 50 words.
+type - give a label to company according to its type, like bank, technology, pharma, telecom, etc."}],
+    "max_tokens": 1000000}
+}
+{
+    "custom_id": "request-T",
+    "method": "POST",
+    "url": "/v1/chat/completions",
+    "body": {"model": "gpt-4o-mini",
+    "messages": [{"role": "developer", "content": "Your responce must be a valid JSON format."},
+        {"role": "user", "content": "All the companies listed on National Stock Exchange (NSE) India, starting with the charecter T in Json format with the following attributes, 'name, description, type'. 
+Name - name of company, 
+description - must include short description of company information, their main source of revenue, current holdings, what does company do? in less than 50 words.
+type - give a label to company according to its type, like bank, technology, pharma, telecom, etc."}],
+    "max_tokens": 1000000}
+}
+{
+    "custom_id": "request-U",
+    "method": "POST",
+    "url": "/v1/chat/completions",
+    "body": {"model": "gpt-4o-mini",
+    "messages": [{"role": "developer", "content": "Your responce must be a valid JSON format."},
+        {"role": "user", "content": "All the companies listed on National Stock Exchange (NSE) India, starting with the charecter U in Json format with the following attributes, 'name, description, type'. 
+Name - name of company, 
+description - must include short description of company information, their main source of revenue, current holdings, what does company do? in less than 50 words.
+type - give a label to company according to its type, like bank, technology, pharma, telecom, etc."}],
+    "max_tokens": 1000000}
+}
+{
+    "custom_id": "request-V",
+    "method": "POST",
+    "url": "/v1/chat/completions",
+    "body": {"model": "gpt-4o-mini",
+    "messages": [{"role": "developer", "content": "Your responce must be a valid JSON format."},
+        {"role": "user", "content": "All the companies listed on National Stock Exchange (NSE) India, starting with the charecter V in Json format with the following attributes, 'name, description, type'. 
+Name - name of company, 
+description - must include short description of company information, their main source of revenue, current holdings, what does company do? in less than 50 words.
+type - give a label to company according to its type, like bank, technology, pharma, telecom, etc."}],
+    "max_tokens": 1000000}
+}
+{
+    "custom_id": "request-W",
+    "method": "POST",
+    "url": "/v1/chat/completions",
+    "body": {"model": "gpt-4o-mini",
+    "messages": [{"role": "developer", "content": "Your responce must be a valid JSON format."},
+        {"role": "user", "content": "All the companies listed on National Stock Exchange (NSE) India, starting with the charecter W in Json format with the following attributes, 'name, description, type'. 
+Name - name of company, 
+description - must include short description of company information, their main source of revenue, current holdings, what does company do? in less than 50 words.
+type - give a label to company according to its type, like bank, technology, pharma, telecom, etc."}],
+    "max_tokens": 1000000}
+}
+{
+    "custom_id": "request-X",
+    "method": "POST",
+    "url": "/v1/chat/completions",
+    "body": {"model": "gpt-4o-mini",
+    "messages": [{"role": "developer", "content": "Your responce must be a valid JSON format."},
+        {"role": "user", "content": "All the companies listed on National Stock Exchange (NSE) India, starting with the charecter X in Json format with the following attributes, 'name, description, type'. 
+Name - name of company, 
+description - must include short description of company information, their main source of revenue, current holdings, what does company do? in less than 50 words.
+type - give a label to company according to its type, like bank, technology, pharma, telecom, etc."}],
+    "max_tokens": 1000000}
+}
+{
+    "custom_id": "request-Y",
+    "method": "POST",
+    "url": "/v1/chat/completions",
+    "body": {"model": "gpt-4o-mini",
+    "messages": [{"role": "developer", "content": "Your responce must be a valid JSON format."},
+        {"role": "user", "content": "All the companies listed on National Stock Exchange (NSE) India, starting with the charecter Y in Json format with the following attributes, 'name, description, type'. 
+Name - name of company, 
+description - must include short description of company information, their main source of revenue, current holdings, what does company do? in less than 50 words.
+type - give a label to company according to its type, like bank, technology, pharma, telecom, etc."}],
+    "max_tokens": 1000000}
+}
+{
+    "custom_id": "request-Z",
+    "method": "POST",
+    "url": "/v1/chat/completions",
+    "body": {"model": "gpt-4o-mini",
+    "messages": [{"role": "developer", "content": "Your responce must be a valid JSON format."},
+        {"role": "user", "content": "All the companies listed on National Stock Exchange (NSE) India, starting with the charecter Z in Json format with the following attributes, 'name, description, type'. 
+Name - name of company, 
+description - must include short description of company information, their main source of revenue, current holdings, what does company do? in less than 50 words.
+type - give a label to company according to its type, like bank, technology, pharma, telecom, etc."}],
+    "max_tokens": 1000000}
+}

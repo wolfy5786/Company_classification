@@ -1,2 +1,3 @@
 *.ipynb
+*.txt
 open_ai_secret_key.py
